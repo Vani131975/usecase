@@ -52,7 +52,7 @@ if average is high along with income then they enjoy more paid holidays
 solution:
 then providing jobs with benefictory allowances
 ------------------------------------------------------------
-5=>
+5=>Tax
 1.finding the headofhousehold tax percentage and who may leave if the tax is raised by a bar of 20%
 solution: raising th tax by 20% is not advisable with the hike in income
 
