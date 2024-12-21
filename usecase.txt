@@ -9,7 +9,7 @@ ideas:
 
 1==>Education
 schema: Gender,Education
-1.literacy rate based on gender and education status.
+1.literacy rate based on gender and education status and upcoming increasing percentage of female literacy rate.
 solution:
 Educational schemes for reservation based on low literacy gender.
 
