@@ -1,0 +1,64 @@
+Report on census
+
+1.Education
+2.Finance
+3.Social welfare
+4.Employment
+5.tax
+ideas:
+
+1==>Education
+schema: Gender,Education
+1.literacy rate based on gender and education status.
+solution:
+Educational schemes for reservation based on low literacy gender.
+
+2.people with education less than metrics(like distinction)
+solution:
+open schools and colleges and night education
+----------------------------------------------
+2==>Finance 
+
+schema:income,Education,Age
+1. Income below powerty line(BPL) 
+solution:
+free basic ementies
+
+2.no formal education and age is working age
+solution:
+providing jobs which does not require education and providing education
+
+----------------------------------------------------------
+3=>Social welfare
+schema:age,gender,marital status,country
+1.working people age >60
+solution:
+providing early retirement and pension benefictory healthcare schemes
+2.finding the working age of the region/country
+solution:
+providing more job oppurtunities especially for this age group that helps in economic growth of country
+-------------------------------------------------------------------------------------------------------
+
+4=>Employment
+schema:income,weeks worked,gender,nationality
+1.no job after graduation
+solution:
+providing more/better job oppurtunities for the least average gender
+2.calculate average no of weeks worked
+solution:
+if average is low then working days would be more
+if average is high along with income then they enjoy more paid holidays
+3.if people are unemployed
+solution:
+then providing jobs with benefictory allowances
+------------------------------------------------------------
+5=>
+1.finding the headofhousehold tax percentage and who may leave if the tax is raised by a bar of 20%
+solution: raising th tax by 20% is not advisable with the hike in income
+
+2.the amount tax would be if nonfilers start paying taxes
+soution:strict actions should be taken against nonfiles
+
+
+
+
